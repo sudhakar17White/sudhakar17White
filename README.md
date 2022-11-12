@@ -1,7 +1,7 @@
 <h1 align="center">SUDHAKAR.D</h1>
 <h3 align="center">A passionate Developer from Tenkasi,TamilNadu -627857</h3>
 
-<p align="center"><img src="hhttps://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"></p>
+<p align="center"><img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhakar17white&label=Profile%20views&color=0e75b6&style=flat" alt="sudhakar17white" /> </p>
 
