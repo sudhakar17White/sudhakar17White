@@ -1,7 +1,7 @@
 <h1 align="center">SUDHAKAR.D</h1>
 <h3 align="center">A passionate Developer from Tenkasi,TamilNadu -627857</h3>
 
-<p align="center"><img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif"></p>
+<p align="center"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.arnabghosh.me%2Fadd-github-dark-snake-animation-readme&psig=AOvVaw3jwcapzv4qlNd-y6Rd67Ck&ust=1668352482053000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCIj5gsT3qPsCFQAAAAAdAAAAABAT"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhakar17white&label=Profile%20views&color=0e75b6&style=flat" alt="sudhakar17white" /> </p>
 
