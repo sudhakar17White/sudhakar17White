@@ -11,7 +11,7 @@
 
 - 👨‍💻 My own Website [www.sudhakar-d.ml](www.sudhakar-d.ml)
 
-- 💬 Ask me about **Hacking,c,Java,HTML**
+- 💬 Ask me about **Java,c,HTML**
 
 - 📫 How to reach me **vpnrsudhakar@gmail.com**
 
