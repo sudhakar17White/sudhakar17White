@@ -1,5 +1,5 @@
 <h1 align="center">SUDHAKAR.D</h1>
-<h3 align="center">A passionate Developer from Tenkasi,TamilNadu -627857</h3>
+<h3 align="center">A passionate Developer</h3>
 
 <p align="center"><img src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"></p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Java,c,HTML**
 
-- 📫 How to reach me **vpnrsudhakar@gmail.com**
+- 📫 How to reach me **sudhakarab360@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/uc?id=1PyvtUfGmBUi4GUmkBP3fKN3K-vNOPTRG](https://drive.google.com/uc?id=1PyvtUfGmBUi4GUmkBP3fKN3K-vNOPTRG)
 
